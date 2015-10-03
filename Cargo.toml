@@ -1,0 +1,7 @@
+[package]
+name = "hacker-rank"
+version = "0.1.0"
+authors = ["Michal Bendowski <michal@bendowski.pl>"]
+
+[dependencies]
+num = "*"
